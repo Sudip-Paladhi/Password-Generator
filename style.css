@@ -19,7 +19,7 @@ input:focus-visible {
 }
 
 .box {
-    min-width: 27rem;
+    min-width: 22rem;
     padding: 10px;
     box-shadow: 0 4px 10px rgb(0 0 0 / 50%);
     border-radius: 2px;
